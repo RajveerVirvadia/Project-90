@@ -1,0 +1,29 @@
+PROJECT - 90
+PROBLEMS AND SOLUTIONS
+
+P-SOME STUDENTS MISS THEIR CLASSES AS THEY FORGET ABOUT THE NEW SCHEDULE.
+
+S-WE CAN MAKE A TASK MANAGER APP WHICH REMINDS ABOUT THE UPCOMING SCHEDULE.
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+P-SOME PATIENTS CAN'T FIND APPROPRIATE DOCTOR FOR THEMSELVES.
+
+S-WE CAN MAKE AN APP IN WHICH THE REVIEWS OF ALL THE DOCTORS OF A PARTICULAR CITY WILL COME.
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+P-STUDENTS CARRY EXTRA BOOKS TO THE SCHOOL WHICH MAKE THEIR BAG HEAVY.
+
+S-WE CAN MAKE AN APP IN WHICH THE TEACHERS INFORM THE STUDENTS ABOUT THE BOOKS THEY HAVE TO BRING.
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+P-MANY PEOPLE FORGET TO DRINK WATER WHICH MAKES THEIR BODY DEHYDRATED.
+
+S-WE CAN MAKE A REMINDER APP WHICH REMINDS THE PERSON TO DRINK WATER.
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+ 
